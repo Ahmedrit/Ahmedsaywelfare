@@ -1,0 +1,258 @@
+html{scroll-behavior: smooth;}
+::-webkit-scrollbar{width: 0.625rem;}
+::-webkit-scrollbar-track{background-color: white;}
+::-webkit-scrollbar-thumb{background-color: royalblue;}
+html,body{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+}
+.div1st{
+    width:1356px ;
+}
+
+.navigation-wrap{position: fixed;width: 100%;left: 00px;z-index: 1000;-webkit-transition: all 0.3s ease-out ;transition: all 0.3s ease-out ; background-color: rgb(236, 246, 255);}
+
+.navigation-wrap.nav-items{padding: 12px;;transition: all 200ms linear;}
+
+.navbar-toggler-icon:focus{outline: unset;box-shadow: none;border: unset; background-color: blueviolet;}
+
+.a1{color: rgb(46, 45, 45) !important;  border: blue 1px solid;}
+
+.img2:hover{background-color: unset !important;}
+
+a:hover{
+    background-color:rgb(59, 59, 228);border-radius: 50px;
+}
+ul.ol{margin: 00px;padding: 00px;}
+
+.nav-link{font-size: 0.9725rem;font-weight: 600;text-transform: capitalize;color: black; letter-spacing: 1px;}
+
+.navigation-wrap.scroll-on{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgb(236, 246, 255);
+    box-shadow:0 0.125rem 1.75rem 0 rgb(0, 0, 0,0.9)  ;
+    transition: all .15s ease-in-out 0s;
+}
+
+.ahmed1{background-color: rgb(59, 59, 228) !important; height: 90px; margin-top: 90px;}
+
+
+
+
+a{display: inline-block;}
+
+.position{position: absolute ;top: 1115px;left: 80px; }
+
+.twitter{position: absolute ;top: 115px;left: 120px;}
+
+.Instagram{position: absolute ;top: 115px;left: 160px;}
+
+.Youtube{position: absolute ;top: 115px;left: 200px;}
+
+.whatsapp{position: absolute ;top: 115px;left: 240px;}
+
+.Uk{position: absolute;top: 115px;right: 320px;text-decoration: none;background-color: white;color: black;height: 25px;width: 80px; border: solid 2px gray; position: fixed;}
+
+.Donate{position: absolute;top: 115px;right: 190px;text-decoration: none;background-color: white;color: black;height: 25px;width: 110px; border: solid 2px gray; position: fixed;}
+
+.PIAIC{position: absolute;top: 115px;right: 90px;text-decoration: none;background-color: white;color: black;height: 25px;width: 90px; border: solid 2px gray; position: fixed;} 
+
+
+.scroll2{background-color: rgb(59, 59, 228);width: 1000px;height: 20px;color: white; margin-top: 10px; margin-left: 150px ; margin-right: 100px !important;}
+
+
+.scrollhanding{ color: lightgreen;}
+
+.scrolllink{text-decoration: none;}
+
+.intro{ color: rgb(59, 59, 228);}
+
+.duction{ color: green;}
+
+.para{width: 1030px; margin-left: 140px;margin-right: 150; color:rgb(160, 174, 185) ;}
+
+.divpara{background-color: rgb(236, 246, 255) ;}
+
+.good{background-color: rgb(59, 59, 228)  ; height: 650px;}
+
+.up{ width: 70px;height: 40px; position: fixed;bottom: 50px;right: 50px;}
+
+.blueimg{height: 55px;
+    justify-content: space-around; 
+    position: relative;
+    top: 20px;
+    left: 60px;
+    
+}
+
+.blueimg1{position: relative;top: -15px;left: 180px;width: 90px !important;}
+.bluenum1{display: inline;font-size: 55px;position: relative;top: -35px; left: 105px; color: rgb(236, 246, 255);font-family:Georgia, 'Times New Roman', Times, serif;}
+.bluetext1{display: inline; font-size: 17px;position: relative;top: -55px;left: 55px; color: rgb(236, 246, 255); font-family: Georgia, 'Times New Roman', Times, serif; }
+
+.blueimg2{position: relative;top: -230px; left:500px ;}
+.bluenum2{font-size: 55px;color: rgb(236, 246, 255);font-family: Georgia, 'Times New Roman', Times, serif;position: relative;left:470px ;top: -250px;}
+.bluetext2{font-size: 17px;position: relative;left: 400px;top: -272px; color: rgb(236, 246, 255);  font-family: Georgia, 'Times New Roman', Times, serif; }
+
+.blueimg3{position: relative; left: 770px;top: -430px;}
+.bluenum3{font-size: 50px;color: rgb(236, 246, 255);font-family: Georgia, 'Times New Roman', Times, serif;position: relative;left: 735px ;top: -430px;}
+.bluetext3{font-size: 17px;position: relative;left: 720px;top: -450px; color: rgb(236, 246, 255); font-family: Georgia, 'Times New Roman', Times, serif; }
+
+.blueimg4{position: relative;left: 1070px;top: -610px;}
+.bluenum4{font-size: 55px; color: rgb(236, 246, 255);font-family: Georgia, 'Times New Roman', Times, serif;position: relative;left: 990px; top: -613px;}
+.bluetext4{font-size: 17px;position: relative;left: 900px;top: -640px; color: rgb(236, 246, 255) ;font-family: Georgia, 'Times New Roman', Times, serif;}
+
+.bluetextbo{color: limegreen; font-size: 18px;}
+
+
+#pakistan3{
+    background-color: blue !important;
+}
+#class2{
+    height: 180px;width: 100px;
+}
+.marquee2{color:rgb(160, 174, 185) ; width: 400px;height: 200px;margin-left: 890px;margin-top: -190px;font-size: 14px}
+
+.image{
+    position: relative;
+    left: 450px;
+    top: 10px;
+}
+.image1{
+    font-family: Georgia, 'Times New Roman', Times, serif; font-size: 35px;font-weight: 600;
+}
+.imglogo{
+    position: relative;
+    top: 10px;
+    left: 130px;
+
+}
+.gallery{
+    position: relative;
+    top: 10px;
+    left: 90px;
+    padding: 3px;
+    transition: 1s;
+
+}
+.gallery:hover{
+
+    transform:scale(1.3) ;
+    z-index: 2;
+}
+
+.line{
+    height: 3px;
+    background-color: green;
+    display: block;
+    width: 70px;
+    position: relative;
+    top: 50px;
+    left: 50px;
+
+    
+}.line2{
+    height: 3px;
+    background-color: green;
+    display:block;
+    width: 70px;
+    position: relative;
+    top: 50px;
+    left: 190px;
+
+    
+}
+.contacts{
+    font-size: 15px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: relative; 
+    top: -10px;   
+    left: 99px; 
+    font-weight: 400;
+}
+
+.listcon{
+    list-style: none;
+}
+.Earth{
+    position: relative;
+    top: -10px;
+    left: 245px;
+    font-size: 13px;
+    font-weight: 200;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.phone{
+    position: relative;
+    top: -33px;
+    left: 60px;
+    padding: 1px;
+    font-size: 13px;
+    font-weight: 200;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.Usefoo{
+    position: relative;
+    left: 550px;
+    top: -240px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+.withus{
+    position: relative;
+    left: 950px;
+    top: -268px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    
+}
+.lastline{
+    background-color: green;
+    width: 40px;
+    height: 1px;
+    position: relative;
+    left: 549px;
+    top: -240px;
+}
+.last2line{
+    background-color:rgb(126, 132, 138);
+    width: 330px;
+    height: 1px;
+    position: relative;
+    left: 589px;
+    top: -241px;
+}
+.copyright{
+    height: 40px;
+    margin-bottom: 00px;
+    margin-top: 00px;
+    width: 1356px;
+
+}
+.copyright:hover{
+    background-color: unset;
+    border: unset; 
+}
+.verylast{
+    font-size: 15px;
+    font-weight: unset;
+    position: relative; 
+    left: 90px;
+    top: 10px;
+    width: 1360px;
+    
+
+}
+
+
+
+
+

@@ -1,0 +1,182 @@
+@media only screen and (max-width:800px){
+    .div1st{
+        height: 60px;
+        margin-bottom: 0;
+    }
+    .ahmed1{
+        width: 100%;
+        height: 200px;
+        margin-top: 0px;
+        
+}
+  .ahmed2{
+      height: 40px;
+      margin-top: 80px;
+      padding: 4px;
+      direction: center;
+  }
+  .Donate,.PIAIC{
+      height: 25px;
+      font-size: 15px;
+      position: relative;
+      bottom: 20px;
+      left: -190px
+       }
+
+   .Uk{
+       position: relative;
+       bottom: -25px;
+       left: -195px;
+       font-size: 15px;
+       height: 25px;
+   }
+   .image{
+       position: relative;
+       top: 20px;
+       left: 180px;
+   } 
+   .para{
+       font-size: 20px;
+       position: relative;
+       top: 5px;
+       padding: 0.5px;
+   }
+   #pakistan3{
+    height: 1100px;
+} 
+   .dastar{
+       position: relative;
+       top: 25px;
+       left: 130px;
+   }
+   .fam{
+       position: relative;
+       top: 220px;
+       left: -190px;
+   } 
+   .statis{
+       position: relative;
+       left: -460px;
+       top: 420px;
+   } 
+   .scholar{
+       position: relative;
+       left: -290px;
+       top: 210px;
+  
+   }
+   #class2{
+       flex-direction: column;
+       width: 900px;
+       height: 200px;
+   }
+   .hepatitis{
+       width: 600px;
+       padding: 4px;
+   }
+   .marquee2{
+       position: relative;
+       left: -850px;
+       top: 220px;
+   }
+   .upcomingEvents{
+       position: relative;
+       position: relative;
+       left: -730px;
+       top: 250px;
+   }
+   .image2{
+       position: relative;
+       left: -30px;
+       top: 180px;
+   }
+   .gallery{
+       flex-direction: column;
+       position: relative;
+       top: 160px;
+       left: 15px;}
+
+   .footer{
+       position: relative;
+       top: 400px;
+   } 
+   .copyright{
+       position: relative;
+       top: 400px;
+      
+   } 
+   .refrence{
+       position: relative;
+       left: -490px;
+       top: 230px;
+   }
+   .connect{
+       position: relative;
+       left: -450px;
+       top: 230px;
+   } 
+       
+   
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 600px){
+    .container{
+        height: 1000px !important;
+        width: 1000px !important;}
+    }
+
+    
+@media only screen and (max-width: 1200px){
+.col{height: 1200px;
+        flex-direction: row;
+    flex-flow: wrap;}
+}   
+    
+
+
+@media only screen and (min-width: 670px){
+    .col{
+        flex-direction: row;
+    flex-flow: wrap;
+    display: block;
+    width: 20px;
+    flex-direction: row;
+
+    }
+    
+}
+
+@media only screen and (max-width:1000px){
+    .scroll2{
+        width: 100%;
+        margin-left: 0px !important;
+        
+        font-size: 15px;
+        
+    }
+    
+    
+    .good{
+        height: 1200px;
+    }
+    
+}
+@media only screen and(max-width:600px){
+    .marquee2{
+       margin-left: 100px;
+       justify-content: flex-start;
+    }
+ 
+}
